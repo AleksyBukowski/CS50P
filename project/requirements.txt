@@ -1,0 +1,4 @@
+finnhub-python
+pillow
+plyer
+sv-ttk
